@@ -9,4 +9,4 @@ DESCRIPTION
 	Basic implementation of Levenshtein distance in Python
 
 USAGE
-	python levenshtein.py [ word1 ] [ word2 ]
+	python src/levenshtein.py [ word1 ] [ word2 ]
